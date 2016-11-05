@@ -71,6 +71,7 @@ See how some projects are using it:
 
 - [ivasilov/promised-twitter](https://github.com/ivasilov/promised-twitter)
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup)
+- [mawrkus/jason-the-miner](https://github.com/mawrkus/jason-the-miner)
 
 ## License
 
